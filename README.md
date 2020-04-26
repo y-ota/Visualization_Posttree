@@ -19,4 +19,4 @@
 [4]t-SNE http://lvdmaaten.github.io/tsne/
 
 ## License
-[MIT License] (https://github.com/y-ota/Visualization_Posttree/blob/master/LICENSE)
+[MIT License](https://github.com/y-ota/Visualization_Posttree/blob/master/LICENSE)
