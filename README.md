@@ -6,7 +6,7 @@
 ![横浜のママの声](https://github.com/y-ota/Visualization-of-Posttree/blob/master/images/sample.png)
 
 
-## How to implement
+## Implementation
 * LDAで各ポストツリーのトピック比率を求める。(k=7)  
 * 2次元平面にマッピングするために各ポストツリーのベクトル(x,y)を求める。その際、t-SNEを用いて、7次元のトピック比率を2次元に変換し、それをポストツリーの座標(x,y)とした。
 * 色付けに必要なRGBの値は、t-SNEを用いて、7次元のトピック比率を3次元に変換し、それをポストツリーの色(r,g,b)とした。
